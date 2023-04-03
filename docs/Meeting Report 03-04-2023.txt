@@ -1,0 +1,109 @@
+# **Group Meeting Report**
+
+## **Notice of meeting and report**
+
+**Date:** 03/04/2023
+
+**Time:** 2:00 PM
+
+**Location:** PM129
+
+---
+
+**Name of group:** Group TC
+
+**Note Taker:** All Attendees
+
+**Sponsor:** Ian Allan
+
+**Group Lead:** None
+
+---
+
+| **Attendees:** |  |
+| ----------- | ----------- |
+| Phillip |  |
+| Joe |
+| Steve |
+| Linkin |
+
+| **Absent:** |  |
+| ----------- | ----------- |
+| Jody |
+
+| **Please Bring:** |  |
+| ----------- | ----------- |
+| External Storage Device |
+
+| **Agenda Items:** |  |
+| ----------- | ----------- |
+| Making Persona's |
+| Clean up GitHub page |
+| convert and Complete meeting report in markdown |
+
+---
+
+| **Agenda Item #1:** Making 5 Persona's | **Presenter:** Ian Allan |
+| ----------- | ----------- |
+
+**Discussion:**
+
+Creating and critiquing 5 persona's.
+
+**Conclusions:**
+
+All persona's were created, critiqued and uploaded as PDFs.
+
+| **Action Items:** | **Person(s) Responsible:** |
+| ----------- | ----------- |
+| Agree on persona template | All Attendees |
+| create one persona per-person (5)|
+| Crituque each persona, improve them and uplaod them as PDF |
+
+---
+
+| **Agenda Item #2:** Cleaning Github Page | **Presenter:** Ian Allan |
+| ----------- | ----------- |
+
+**Discussion:**
+
+Cleaning, streamlining and orginizing the GitHub page to be easy to read, understand and navigate.
+
+**Conclusions:**
+
+Completed updating GitHub markdown within time, made it easier to read, understand and faster to navigate.
+
+| **Action Items:**  | **Person(s) Responsible:**  |
+| ----------- | ----------- |
+| Learning Markdown | All Attendees |
+| Applying standerdized Layouts for Markdown |
+| Cleaning up the final result |
+
+---
+
+| **Agenda Item #3:** converting and Completing Meeting Report in Markdown | **Presenter:** Ian Allan |
+| ----------- | ----------- |
+
+**Discussion:**
+
+Converting the Word meeting report to Markdown, Uploading a standard template and completing this meeting report in markdown.
+
+**Conclusions:**
+
+Meeting report was fully converted to markdown and filled out in markdown.
+
+| **Action Items:** | **Person(s) Responsible:** |
+| ----------- | ----------- |
+| Aquiring original Word meeting report | Phillip Venter |
+| Converting every line to markdown using Visual Studio |
+| Filling in the meeting report using markdown |
+---
+
+## **Other Information**
+
+### **Date of next meeting:** 17/04/2023
+
+| **Resources:** | |
+| ----------- | ----------- |
+| None |
+
