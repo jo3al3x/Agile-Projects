@@ -1,5 +1,5 @@
 # Agile-Projects
-### The purpose of this project is to create and the basics of GitHub to effetctivly work as a team to devalop a smartwatch website.
+### The purpose of this project is to learn the basics of GitHub and effectively work as a team to devalop a smartwatch website.
 
 ## Meeting reports
 ### Reports relating to our recent meetings in regards to our smartwatch website.
