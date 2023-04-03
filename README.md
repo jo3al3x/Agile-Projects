@@ -8,8 +8,8 @@
 
 
 ## Personas 
--CEO
--Site Admin
--Tech Savvy Professional
--Senior Citizen
+1.CEO [CEO Persona](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/PERSONA-Ceo.pdf)
+2.Site Admin
+3.Tech Savvy Professional
+4.Senior Citizen
 -TBC (Jody)
