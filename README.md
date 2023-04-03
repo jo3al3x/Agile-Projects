@@ -18,4 +18,4 @@
 
 
 ## References
-Adobe XD Ideas. (n.d.). Putting personas to work in UX design. Retrieved April 3, 2023, from [https://xd.adobe.com/ideas/process/user-research/putting-personas-to-work-in-ux-design/](Adobe XD Ideas. (n.d.). Putting personas to work in UX design. Retrieved April 3, 2023, from https://xd.adobe.com/ideas/process/user-research/putting-personas-to-work-in-ux-design/)
+Adobe XD Ideas. (n.d.). Putting personas to work in UX design. Retrieved April 3, 2023, from https://xd.adobe.com/ideas/process/user-research/putting-personas-to-work-in-ux-design/
