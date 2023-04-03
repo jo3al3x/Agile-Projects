@@ -5,6 +5,7 @@
 - [Group meeting report: Notice of Meeting and Agenda](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%20template%20-%20Copy.pdf)
 
 ## Stakeholders
+### Stakeholders are internal or external and can influence the success and failure of a project. Below are the Stakeholders for our Smartwatch website.
 - [Stakeholders register report](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Stakeholder%20register%20sample.pdf)
 
 
