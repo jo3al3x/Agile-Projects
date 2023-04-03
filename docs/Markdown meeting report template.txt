@@ -12,7 +12,7 @@
 
 **Name of group:** Group TC
 
-**Note Taker:** TBD
+**Note Taker:** ###
 
 **Sponsor:** ###
 
@@ -57,7 +57,7 @@ Start typing here
 
 Start typing here
 
-| **Action Items:** ### | **Person(s) Responsible:** ### |
+| **Action Items:** | **Person(s) Responsible:** |
 | ----------- | ----------- |
 | ### | ### |
 | ### | ### |
@@ -76,7 +76,7 @@ Start typing here
 
 Start typing here
 
-| **Action Items:** ### | **Person(s) Responsible:** ### |
+| **Action Items:** | **Person(s) Responsible:** |
 | ----------- | ----------- |
 | ### | ### |
 | ### | ### |
@@ -95,7 +95,7 @@ Start typing here
 
 Start typing here
 
-| **Action Items:** ### | **Person(s) Responsible:** ### |
+| **Action Items:** | **Person(s) Responsible:** |
 | ----------- | ----------- |
 | ### | ### |
 | ### | ### |
@@ -105,7 +105,7 @@ Start typing here
 
 ## **Other Information**
 
-**Date of next meeting:** 
+### **Date of next meeting:** 
 
 | **Resources:** | |
 | ----------- | ----------- |
