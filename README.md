@@ -18,6 +18,7 @@
 | Steve Rogers | Senior Developer | Developer |
 | Bank of New Zealand | Creditor | Creditor |
 | Customers | End User | End User |
+Please refer to Full Stakeholder Register below
 
 
 ## Personas 
