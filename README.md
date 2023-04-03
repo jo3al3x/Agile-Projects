@@ -23,7 +23,7 @@ Please refer to Full Stakeholder Register below
 - [Stakeholders register report](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Stakeholder%20register%20sample.pdf) 
 
 ## Personas 
-### User personas are archetypical users whose goals and characteristics represent the needs of a larger group of users (Adobe XD Ideas. (n.d)). Below are the chosen personas for our Smartwatch website.
+### User personas are archetypical users whose goals and characteristics represent the needs of a larger group of users (Adobe XD Ideas. (n.d)). Below are the chosen personas for our smartwatch website.
 - [CEO Persona](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/PERSONA-Ceo.pdf)
 - [Site Admin Persona](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/PERSONA%20Site%20Admin.pdf)
 - [Tech Savvy Professional Persona](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/PERSONA%20-%20Tech%20Savvy%20Professional%20(1).pdf)
