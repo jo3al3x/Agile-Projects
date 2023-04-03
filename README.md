@@ -1,11 +1,12 @@
 # Agile-Projects
+### The purpose of this project is to create and the basics of GitHub to effetctivly work as a team to devalop a smartwatch website.
 
 ## Meeting reports
-### Reports relating to our recent meetings in regards to our Smartwatch website.
+### Reports relating to our recent meetings in regards to our smartwatch website.
 1. [Group meeting report: Notice of Meeting and Agenda](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%20template%20-%20Copy.pdf)
 
 ## Stakeholders
-### Stakeholders are internal or external and can influence the success and failure of a project. Below are the Stakeholders for our Smartwatch website.
+### Stakeholders are internal or external and can influence the success and failure of a project. Below are the Stakeholders for our smartwatch website.
 
 | Priority Stakeholders |  |  |
 | --- | --- | --- |
