@@ -1,8 +1,8 @@
 # Agile-Projects
 
 ## Meeting reports
-### 1. Setting up Github, Starting a teams group, Compleating stakeholder register
-- [Group meeting report: Notice of Meeting and Agenda](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%20template%20-%20Copy.pdf)
+### Reports relating to our recent meetings in regards to our Smartwatch website.
+1. [Group meeting report: Notice of Meeting and Agenda](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%20template%20-%20Copy.pdf)
 
 ## Stakeholders
 ### Stakeholders are internal or external and can influence the success and failure of a project. Below are the Stakeholders for our Smartwatch website.
