@@ -1,7 +1,7 @@
 # Agile-Projects
 
 ## Meeting reports
-# 1. setting up Github, starting a teams group, compleating stakeholder register
+### 1. Setting up Github, Starting a teams group, Compleating stakeholder register
 - [Group meeting report: Notice of Meeting and Agenda](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%20template%20-%20Copy.pdf)
 
 ## Stakeholders
