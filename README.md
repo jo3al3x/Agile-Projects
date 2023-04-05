@@ -27,9 +27,11 @@ Please refer to Full Stakeholder Register below
 - [CEO Persona](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/PERSONA-Ceo.pdf)
 - [Site Admin Persona](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/PERSONA%20Site%20Admin.pdf)
 - [Tech Savvy Professional Persona](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/PERSONA%20-%20Tech%20Savvy%20Professional%20(1).pdf)
-- [Senior Citizen Persona](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/PERSONA%20-%20Senior%20Citizen.pdf)
-- [Working Parent Persona](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/PERSONA%20-%20Working%20Parent.jpg)
+- [Senior Citizen Persona](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/PERSONA%20-%20Senior%20Citizen.pdf)  
+- [Working Parent Persona](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/PERSONA%20-%20Working%20Parent.jpg)  
 
 
 ## References
-Adobe XD Ideas. (n.d.). Putting personas to work in UX design. Retrieved April 3, 2023, from https://xd.adobe.com/ideas/process/user-research/putting-personas-to-work-in-ux-design/
+Adobe XD Ideas. (n.d.). *Putting personas to work in UX design*. Retrieved April 3, 2023, from https://xd.adobe.com/ideas/process/user-research/putting-personas-to-work-in-ux-design/
+
+Dam, R and Siang, T. 2022. *Personas – A Simple Introduction*. Interaction Design Foundation. Retrieved April 5, 2023 from https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them
