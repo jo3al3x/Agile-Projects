@@ -37,22 +37,22 @@
 
 | **Agenda Items:** |  |
 | ----------- | ----------- |
-| Making Persona's |
+| Making Personas |
 | Clean up GitHub page |
 | convert and Complete meeting report in markdown |
 
 ---
 
-| **Agenda Item #1:** Making 5 Persona's | **Presenter:** Ian Allan |
+| **Agenda Item #1:** Making 5 Personas | **Presenter:** Ian Allan |
 | ----------- | ----------- |
 
 **Discussion:**
 
-Creating and critiquing 5 persona's.
+Creating and critiquing 5 personas.
 
 **Conclusions:**
 
-All persona's were created, critiqued and uploaded as PDFs.
+All personas were created, critiqued and uploaded as PDFs.
 
 | **Action Items:** | **Person(s) Responsible:** |
 | ----------- | ----------- |
