@@ -32,7 +32,7 @@ Please refer to Full Stakeholder Register below
 
 ## Progress Report
 ### Progress report (attached) gives a brief rundown of our progress and steps taken so far.
-https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Project%20Status%20Report%201.pdf
+-[Status report](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Project%20Status%20Report%201.pdf)
 
 ## References
 Adobe XD Ideas. (n.d.). *Putting personas to work in UX design*. Retrieved April 3, 2023, from https://xd.adobe.com/ideas/process/user-research/putting-personas-to-work-in-ux-design/
