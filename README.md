@@ -31,6 +31,7 @@ Please refer to Full Stakeholder Register below
 - [Working Parent Persona](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/PERSONA%20-%20Working%20Parent.jpg)  
 
 ## Progress Report
+### Progress report (attached) gives a brief rundown of our progress and steps taken so far.
 
 ## References
 Adobe XD Ideas. (n.d.). *Putting personas to work in UX design*. Retrieved April 3, 2023, from https://xd.adobe.com/ideas/process/user-research/putting-personas-to-work-in-ux-design/
