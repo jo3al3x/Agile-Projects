@@ -3,9 +3,10 @@
 
 ## Meeting reports
 ### Reports relating to our recent meetings in regards to our smartwatch website.
-1. [Group meeting report: Notice of Meeting and Agenda](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%20template%20-%20Copy.pdf)
-2. [Group meeting report: Personas](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Meeting%20Report%2003-04-2023.txt)
-3. [Progress report: Project status](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Project%20Status%20Report%201.pdf)
+1. [Group meeting report 1: Notice of Meeting and Agenda](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%20template%20-%20Copy.pdf)
+2. [Group meeting report 2: Personas](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Meeting%20Report%2003-04-2023.txt)
+3. [Progress report Iteration 1: Project status](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Project%20Status%20Report%201.pdf)
+4. [Group meeting report 4: Notice of Meeting and Agenda](https://github.com/jo3al3x/Agile-Projects/blob/main/Group%20Meeting%20Report%20%204.docx)  
 
 
 ## Stakeholders
@@ -30,7 +31,11 @@ Please refer to Full Stakeholder Register below
 - [Site Admin Persona](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/PERSONA%20Site%20Admin.pdf)
 - [Tech Savvy Professional Persona](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/PERSONA%20-%20Tech%20Savvy%20Professional%20(1).pdf)
 - [Senior Citizen Persona](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/PERSONA%20-%20Senior%20Citizen.pdf)  
-- [Working Parent Persona](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/PERSONA%20-%20Working%20Parent.jpg)  
+- [Working Parent Persona](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/PERSONA%20-%20Working%20Parent.jpg) 
+
+## Resources  
+### Please refer to resources link for spreadsheet on resources required for project.
+[Resources file](***)
 
 
 ## References
