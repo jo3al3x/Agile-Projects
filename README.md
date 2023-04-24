@@ -5,7 +5,7 @@
 ### Reports relating to our recent meetings in regards to our smartwatch website.
 1. [Group meeting report 1: Notice of Meeting and Agenda](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%20template%20-%20Copy.pdf)
 2. [Group meeting report 2: Personas](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Meeting%20Report%2003-04-2023.txt)
-3. [Progress report Iteration 1: Project status](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Project%20Status%20Report%201.pdf)
+3. [Group meeting report 3: Project status](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Project%20Status%20Report%201.pdf)
 4. [Group meeting report 4: Notice of Meeting and Agenda](https://github.com/jo3al3x/Agile-Projects/blob/main/Group%20Meeting%20Report%20%204.docx)  
 
 
