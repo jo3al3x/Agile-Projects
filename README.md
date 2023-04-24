@@ -35,7 +35,7 @@ Please refer to Full Stakeholder Register below
 
 ## Resources  
 ### Please refer to resources link for spreadsheet on resources required for project.
-[Resources file](***)
+[Resources needs](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Resource%20needs.pdf)
 
 
 ## References
