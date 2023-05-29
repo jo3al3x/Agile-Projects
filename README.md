@@ -52,3 +52,6 @@ Adobe XD Ideas. (n.d.). *Putting personas to work in UX design*. Retrieved April
 Dam, R and Siang, T. 2022. *Personas – A Simple Introduction*. Interaction Design Foundation. Retrieved April 5, 2023 from https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them
 
 ![EIT logo](https://ucarecdn.com/d490d3e4-8ece-4bf7-8e3e-6c4d760e3789/-/preview/288x288/-/format/png/)
+
+Jody asks: Could we add this logo instead?  
+![Oh so familiar logo](https://temahau-my.sharepoint.com/:i:/g/personal/wintrj1_student_eit_ac_nz/Ed4X1z6OGiNEhz14Np75RmUBSh3hXA_jG97mB7Sku7zMxw?e=vfq7gI)  
