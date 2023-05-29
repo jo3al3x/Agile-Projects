@@ -48,3 +48,6 @@ Adobe XD Ideas. (n.d.). *Putting personas to work in UX design*. Retrieved April
 
 Dam, R and Siang, T. 2022. *Personas – A Simple Introduction*. Interaction Design Foundation. Retrieved April 5, 2023 from https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them
 
+# Smart watch test website 
+> I would recommend to add a logo to your project something like:
+![EIT logo](https://ucarecdn.com/d490d3e4-8ece-4bf7-8e3e-6c4d760e3789/-/preview/288x288/-/format/png/)
