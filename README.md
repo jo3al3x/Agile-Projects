@@ -9,12 +9,16 @@
 ### Reports relating to our recent meetings in regards to our smartwatch website.
 1. [Group meeting report 1: Notice of Meeting and Agenda](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%201.pdf)
 2. [Group meeting report 2: Personas](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Meeting%20Report%2003-04-2023.txt)
-3. [Group meeting report 3: Project status](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Project%20Status%20Report%201.pdf)
+3. [Project status report 1](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Project%20Status%20Report%201.pdf)
 4. [Group meeting report 4: Notice of Meeting and Agenda](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%20%204.pdf)  
 5. [Group meeting report 5: Intro into GitHub 2](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%205.pdf)
 6. [Group meeting report 6: Identify Tasks for project , Create Gantt Chart](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%206.pdf)
 7. [Project status report 2](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Project%20Status%20Report%202%20-%20.pdf)  
-8. [Group meeting report 7](*)  
+8. [Group meeting report 7](*)
+9. [Group meeting report 8](*)
+10. [Group meeting report 9](*)
+11. [Project status report 3](*)  
+
 
 ## Stakeholders
 ### Stakeholders are internal or external and can influence the success and failure of a project. Below are the Stakeholders for our smartwatch website.
