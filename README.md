@@ -1,5 +1,6 @@
 # Smart watch test website 
 > ### Agile-Projects:
+> | Check out our site below |
 >### [Smart watch Website ](https://jo3al3x.github.io/Agile-Projects/)
 
 ### The purpose of this project is to learn the basics of Git and GitHub and to effectively work as a team to develop a smartwatch website.
