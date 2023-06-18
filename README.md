@@ -12,8 +12,8 @@
 3. [Group meeting report 3: Notice of Meeting and Agenda](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%20%204.pdf)  
 4. [Group meeting report 4: Intro into GitHub 2](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%205.pdf)
 5. [Group meeting report 5: Identify Tasks for project , Create Gantt Chart](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%206.pdf)
-6. [Group meeting report 6](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%207.pdf)
-7. [Group meeting report 7](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%208.pdf)
+6. [Group meeting report 6: Risk Register](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%207.pdf)
+7. [Group meeting report 7: Gif Forks](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%208.pdf)
 8. [Group meeting report 8](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%209.pdf)
     
 ## Status reports
