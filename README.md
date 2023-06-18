@@ -54,6 +54,8 @@ Please refer to Full Stakeholder Register below
 ## Gantt Chart for Project 
 [Gantt chart](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Iteration%202%20week%208%20(1).png)
 
+## User Testing
+- [UTA](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Smartwatch%20User%20testing.jpg)
 ## References
 Adobe XD Ideas. (n.d.). *Putting personas to work in UX design*. Retrieved April 3, 2023, from https://xd.adobe.com/ideas/process/user-research/putting-personas-to-work-in-ux-design/
 
