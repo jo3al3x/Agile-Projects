@@ -24,10 +24,9 @@
 
 
 ## Stakeholders
-### Stakeholders are internal or external and can influence the success and failure of a project. Below are the Stakeholders for our smartwatch website.
+Stakeholders are internal or external and can influence the success and failure of a project. Below are the Stakeholders for our smartwatch website.
 
-| Priority Stakeholders |  |  |
-
+### Priority Stakeholders  
 | Name | Title | Role |
 | --- | --- | --- |
 | Ian Allan | CEO | Sponsor |
