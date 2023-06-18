@@ -17,7 +17,7 @@
 8. [Group meeting report 7](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%207.pdf)
 9. [Group meeting report 8](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%208.pdf)
 10. [Group meeting report 9](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%209.pdf)
-11. [Project status report 3](*)  
+11. [Project status report 3](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Project%20Status%20Report%203.pdf)  
 
 
 ## Stakeholders
