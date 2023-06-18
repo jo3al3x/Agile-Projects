@@ -28,7 +28,7 @@
 
 | Priority Stakeholders |  |  |
 | --- | --- | --- |
-| ### Name | ### Title | ### Role |
+| Name | Title | Role |
 | Ian Allan | CEO | Sponsor |
 | Wiliam Bell | Client | Client |
 | Google/Android | OS Supplier | OS Support |
