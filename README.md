@@ -9,12 +9,13 @@
 ### Reports relating to our recent meetings in regards to our smartwatch website.
 1. [Group meeting report 1: Introduction to GitHub and compile Stakeholder Register](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%201.pdf)
 2. [Group meeting report 2: Personas](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Meeting%20Report%2003-04-2023.txt)
-3. [Group meeting report 3: Start Iteration 2 and identify Resource Needs](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%20%204.pdf)  
-4. [Group meeting report 4: Intro into GitHub 2](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%205.pdf)
-5. [Group meeting report 5: Identify Tasks for project , Create Gantt Chart](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%206.pdf)
-6. [Group meeting report 6: Risk Register](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%207.pdf)
-7. [Group meeting report 7: Git Forks](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%208.pdf)
-8. [Group meeting report 8: Publish website and UAT](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%209.pdf)
+3. [Group meeting report 3: Branching and Merging](https://github.com/jo3al3x/Agile-Projects/blob/636d5b2fb300a8b234d6291ea588244274e29026/docs/Group%20Meeting%20Report%203.pdf)  
+4. [Group meeting report 4: Start Iteration 2 and identify Resource Needs](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%20%204.pdf)  
+5. [Group meeting report 5: Intro into GitHub 2](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%205.pdf)
+6. [Group meeting report 6: Identify Tasks for project , Create Gantt Chart](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%206.pdf)
+7. [Group meeting report 7: Risk Register](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%207.pdf)
+8. [Group meeting report 8: Git Forks](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%208.pdf)
+9. [Group meeting report 9: Publish website and UAT](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Group%20Meeting%20Report%209.pdf)
     
 ## Status reports
 1. [Project status report 1](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Project%20Status%20Report%201.pdf)  
