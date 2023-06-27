@@ -53,7 +53,11 @@ Please refer to Full Stakeholder Register below
 [Resources needs](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Resource%20needs.pdf)
 
 ## Gantt Chart for Project 
-[Gantt chart](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Iteration%202%20week%208%20(1).png)
+[Gantt chart](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Gantt%20Chart.png)  
+
+## Risk Register
+Our risk register can be found below.  
+[Risk Register](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Risk%20Register.pdf)  
 
 ## User Testing
 - [UAT-(User Acceptance test) ](https://github.com/jo3al3x/Agile-Projects/blob/main/docs/Smartwatch%20User%20testing.jpg)
